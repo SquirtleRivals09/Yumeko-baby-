@@ -94,3 +94,6 @@ async def help(client: Client, message: Message):
             ]
         ),
     )
+
+
+#ogffff
