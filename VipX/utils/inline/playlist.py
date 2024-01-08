@@ -5,11 +5,11 @@ def botplaylist_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋✦",
+                text="𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋",
                 callback_data="get_playlist_playmode",
             ),
             InlineKeyboardButton(
-                text="✦𝐆𝐋𝐎𝐁𝐀𝐋✦", callback_data="get_top_playlists"
+                text="𝐆𝐋𝐎𝐁𝐀𝐋", callback_data="get_top_playlists"
             ),
         ],
         [
@@ -25,20 +25,20 @@ def top_play_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦𝐓𝐎𝐏 10 𝐋𝐈𝐒𝐓✦", callback_data="SERVERTOP"
+                text="𝐓𝐎𝐏 10 𝐋𝐈𝐒𝐓", callback_data="SERVERTOP"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦𝐎𝐖𝐍✦", callback_data="SERVERTOP user"
+                text="𝐎𝐖𝐍", callback_data="SERVERTOP user"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦𝐆𝐋𝐎𝐁𝐀𝐋✦", callback_data="SERVERTOP global"
+                text="𝐆𝐋𝐎𝐁𝐀𝐋", callback_data="SERVERTOP global"
             ),
             InlineKeyboardButton(
-                text="✦𝐆𝐑𝐎𝐔𝐏✦", callback_data="SERVERTOP chat"
+                text="𝐆𝐑𝐎𝐔𝐏", callback_data="SERVERTOP chat"
             )
         ],
         [
@@ -79,20 +79,20 @@ def top_play_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦𝐓𝐎𝐏 10 𝐋𝐈𝐒𝐓✦", callback_data="SERVERTOP"
+                text="𝐓𝐎𝐏 10 𝐋𝐈𝐒𝐓", callback_data="SERVERTOP"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋✦", callback_data="SERVERTOP Personal"
+                text="𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋", callback_data="SERVERTOP Personal"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦𝐆𝐋𝐎𝐁𝐀𝐋✦", callback_data="SERVERTOP Global"
+                text="𝐆𝐋𝐎𝐁𝐀𝐋", callback_data="SERVERTOP Global"
             ),
             InlineKeyboardButton(
-                text="✦𝐆𝐑𝐎𝐔𝐏✦", callback_data="SERVERTOP Group"
+                text="𝐆𝐑𝐎𝐔𝐏", callback_data="SERVERTOP Group"
             )
         ],
         [
@@ -127,7 +127,7 @@ def warning_markup(_):
         [
             [
                 InlineKeyboardButton(
-                    text="✦𝐃𝐄𝐋𝐄𝐓𝐄✦",
+                    text="𝐃𝐄𝐋𝐄𝐓𝐄",
                     callback_data="delete_whole_playlist",
                 ),
             ],
