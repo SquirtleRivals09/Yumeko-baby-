@@ -14,3 +14,6 @@ def ul(_, message):
             url = "https://telegra.ph" + x
 
         i.edit(f'🇾ᴏᴜʀ🇹ᴇʟᴇɢʀᴀᴘʜ 👉 {url}')
+
+
+#off
