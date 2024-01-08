@@ -2,28 +2,27 @@
 ### ❤️‍🔥❤️‍🔥𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒❤️‍🔥❤️‍🔥
 
 <!--
-THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+YUMEKO MUSIC is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/THEMOHMAYA/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/LEVI ACKERMAN/count.svg" />
 </p>
 
 
 
 
 <h2 align="center">
-    ─「 𝗠𝗢𝗛 𝗠𝗔𝗬𝗔 」─
+    ─「 YUMEKO 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐓𝐇𝐄+𝗠𝗢𝗛+𝗠𝗔𝗬𝗔+🎭">
 <p align="center">
-  <img src="https://te.legra.ph/file/de0a77bb3b8d58b7338e4.jpg">
+  <img src="https://telegra.ph/file/e9ecaca566787c615d142.jpg">
 </p>
 
-𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗢𝗧❥](https://t.me/reesomusicbot)
 
 
 
@@ -38,17 +37,7 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MegumiFushiguroo/Yumeko-baby-"> <img src="https://graph.org/file/cf4dc71a01daef1a1577f.jpg" width="1220" height="538.45"/></a></p>
 
-## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=soci)
-
-<h2 align="center">
-
-🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-<p align="center">
-<a href="https://telegram.me/Moh_maya_official"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗠𝗢𝗛 𝗠𝗔𝗬𝗔%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-<h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
@@ -80,14 +69,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
 
-<p align="center">
-<a href="https://telegram.me/love_ki_duniya1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<p align="center">
-<a href="https://telegram.me/THE_MOH_MAYA"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
