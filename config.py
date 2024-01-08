@@ -8,14 +8,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("API_ID", "29422639"))
+API_HASH = getenv("API_HASH", "e21bccfd64a01c5762ce81c77379dc7f")
 
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 # Database to save your chats and stats... Get MongoDB:-  
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://aarusan:aarusan@cluster0.bcuiwr3.mongodb.net/?retryWrites=true&w=majority")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
@@ -28,14 +28,14 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002082771163"))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MOH MAYA MUSIC")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MUSIC")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "6264769753").split())
 )  # Input type must be interger
 
 GROUP_USERNAME = getenv("GROUP_USERNAME")
@@ -64,8 +64,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/the_moh_maya")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/love_ki_duniya1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/YumekoUpdate")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Panther_community")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -166,11 +166,11 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/443076090048170968b90.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/e9ecaca566787c615d142.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/443076090048170968b90.jpg",
+    "https://telegra.ph/file/e9ecaca566787c615d142.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
