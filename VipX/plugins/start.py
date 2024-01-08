@@ -89,7 +89,7 @@ async def start_comm(client, message: Message, _):
                     details = stats.get(vidid)
                     title = (details["title"][:35]).title()
                     if vidid == "telegram":
-                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/love_ki_duniya1) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
+                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/Panther_community) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
                     else:
                         msg += f"🔗 [{title}](https://www.youtube.com/watch?v={vidid}) ** played {count} times**\n\n"
                 msg = _["ustats_2"].format(tot, tota, limit) + msg
@@ -113,7 +113,7 @@ async def start_comm(client, message: Message, _):
                 sender_name = message.from_user.first_name
                 return await app.send_message(
                     config.LOG_GROUP_ID,
-                    f"{message.from_user.mention} 𝐉𝐮𝐬𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐌𝐎𝐇 𝐌𝐀𝐘𝐀 𝐁𝐨𝐭 𝐓𝐨 𝐂𝐡𝐞𝐜𝐤 𝐒𝐨𝐧𝐠 𝐈𝐧𝐟𝐨 <code>𝐒𝐮𝐝𝐨𝐥𝐢𝐬𝐭</code>\n\n**𝐔𝐒𝐄𝐑 𝐈𝐃:-** {sender_id}\n**𝐍𝐀𝐌𝐄:-** {sender_name}",
+                    f"{message.from_user.mention} Just Started Yumeko Bot To Check Song Info <code>𝐒𝐮𝐝𝐨𝐥𝐢𝐬𝐭</code>\n\n**𝐔𝐒𝐄𝐑 𝐈𝐃:-** {sender_id}\n**𝐍𝐀𝐌𝐄:-** {sender_name}",
                 )
             return
         if name[0:3] == "lyr":
@@ -173,7 +173,7 @@ async def start_comm(client, message: Message, _):
 ● 📡 **𝐋𝐢𝐧𝐤 ➪ [ᴡᴀᴛᴄʜ ᴏɴ ʏᴏᴜᴛᴜʙᴇ]({link})**☆.♡
 •✰˚♫. * ● ¸ . ★ .¸¸♡¸¸★ :●. *°☆ ¸. ● .. ✷
 
-☆............𝙱𝚈 » [🖤](https://t.me/MOH_MAYA_OFFICIAL)............☆"""
+☆............𝙱𝚈 » [Levi Ackerman](https://t.me/LeviAckerman1709)............☆"""
             key = InlineKeyboardMarkup(
                 [
                     [
@@ -181,7 +181,7 @@ async def start_comm(client, message: Message, _):
                             text="🥀𝐘𝐎𝐔𝐓𝐔𝐁𝐄🥀", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="🏓𝐒𝐔𝐏𝐏𝐎𝐑𝐓🏓", url="https://t.me/love_ki_duniya1"
+                            text="🏓𝐒𝐔𝐏𝐏𝐎𝐑𝐓🏓", url="https://t.me/Panther_community"
                         ),
                     ],
                 ]
