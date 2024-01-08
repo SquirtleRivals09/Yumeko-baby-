@@ -212,3 +212,5 @@ async def cancel_spam(client, message):
         except:
             pass
         return await message.reply("♦ Mention process stopped ♦")
+
+#off
