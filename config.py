@@ -12,7 +12,7 @@ API_ID = int(getenv("API_ID", "29422639"))
 API_HASH = getenv("API_HASH", "e21bccfd64a01c5762ce81c77379dc7f")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "7381512423:AAGgaCvl-Wu5EEaf9eOyDfqPYcOuz_2e9GA")
 
 # Database to save your chats and stats... Get MongoDB:-  
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://aarusan:aarusan@cluster0.bcuiwr3.mongodb.net/?retryWrites=true&w=majority")
@@ -28,18 +28,18 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002082771163"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001739122591"))
 
 # A name for your Music bot.
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MUSIC")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6264769753").split())
+    map(int, getenv("OWNER_ID", "5106602523").split())
 )  # Input type must be interger
 
-GROUP_USERNAME = getenv("GROUP_USERNAME")
-CHANNEL_USERNAME = getenv("CHANNEL_USERNAME")
+GROUP_USERNAME = getenv("Ahjin_sprt")
+CHANNEL_USERNAME = getenv("SungUpdates")
 # Fill your group and channel username (without @)
 # If your group and channel is private then fill like this:-  +GepTJkDUaiA5NmRl  , except (https://t.me/)
 
@@ -64,8 +64,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/YumekoUpdate")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Panther_community")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/SungUpdates")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Ahjin_sprt")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
